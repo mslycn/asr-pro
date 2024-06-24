@@ -33,7 +33,7 @@
 | 名称 | 型号 | 数量 | 价格 | PCB标注 | 链接 |
 | ----- | ----- | ----: | ----: | :----: | :----: |
 | ASR-PRO语音智能识别控制开发板 [交易快照]颜色分类：ASRPRO开发板2M闪存（排针已焊）+下载线+喇叭 | 颜色很多 | 1 | 28.8 | LED | [购买](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.33932e8dA9Txy3&id=684816007765&_u=o1ed9uja9df&skuId=4996244009332) |
-| 单排针 间距2.54MM | 1 * 40P| 1 | 5V GND RX TX | [购买](https://item.taobao.com/item.htm?id=553875848479) |
+| Best ESP8266 Wi-Fi Development Board - | 1 * 40P| 1 | 5V GND RX TX | [购买](https://item.taobao.com/item.htm?id=553875848479) |
 | VS/HX1838/PC638 红外接收头 || 1 | U3 | [购买](https://item.taobao.com/item.htm?id=522552967131) |
 | 3MM 940nm红外发射管 || 2 | U1 / U2 | [购买](https://item.taobao.com/item.htm?id=522572541770) |
 | 光敏电阻5516 | 5516 | 1 | R1 | [购买](https://item.taobao.com/item.htm?id=522556415238) |
